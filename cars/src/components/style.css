@@ -1,0 +1,37 @@
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+}
+.cars{
+    padding:30px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+h3{
+    color: gray;
+}
+.modeltype{
+    color: lightgray;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    padding-left: 50px;
+    color: blue;
+    font-weight: 400;
+    font-size:large;
+}
+input{
+    position: relative;
+    top:20px;
+    left: 30px;
+}
+@media (max-width:480px) {
+
+    
+}
